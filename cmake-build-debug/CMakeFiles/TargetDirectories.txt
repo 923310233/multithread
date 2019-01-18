@@ -1,0 +1,3 @@
+/Users/wushuohan/CLionProjects/LinuxMulThreadTest/partOne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wushuohan/CLionProjects/LinuxMulThreadTest/partOne/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wushuohan/CLionProjects/LinuxMulThreadTest/partOne/cmake-build-debug/CMakeFiles/partOne.dir
